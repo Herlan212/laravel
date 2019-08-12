@@ -1,0 +1,13 @@
+.login-page {
+    background-image: url("../img/koko.jpg");
+
+}
+
+.login-box {
+ background:rgba(0, 0, 0, 0.39);
+ box-shadow: 3px 3px 20px 6px;
+ border-radius:10px;
+ width:350px;
+ margin:15px auto;
+ padding:20px;
+}
